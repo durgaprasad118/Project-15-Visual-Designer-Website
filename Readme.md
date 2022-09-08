@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live link](https://project-13-saas-website-dp1108.netlify.app/)
+[Live link](https://project-15-visual-designer-dp1108.netlify.app/)
 
 ## Technologies Used
 
